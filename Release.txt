@@ -1,0 +1,9 @@
+Origin: Marcos3935's Repo
+Label: Marcos3935's Repo
+Suite: stable
+Version: 1.0
+Codename: Marcos3935
+Architectures: iphoneos-arm
+Components: main
+Description: My personal Repo
+MD5Sum:0db68bbbcdc43d44ab79d610cfc733e3

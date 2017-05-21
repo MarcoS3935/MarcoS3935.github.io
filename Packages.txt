@@ -1,0 +1,12 @@
+Package: com.marcos3935.Sploosh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: marcos3935 <marco.s3935@gmail.com>
+Filename: debs//com.marcos3935.Sploosh_1.0_iphoneos-arm.deb
+Size: 5824214 
+Section: Themes
+Description: A flat and simple theme for Anemone.
+MD5sum: 0db68bbbcdc43d44ab79d610cfc733e3
+Author: marcos3935 <marco.s3935@gmail.com@gmail.com>
+Depiction: https://marcos3935.github.io/depic/marcos3935.github.Sploosh/index.html
+Name: Sploosh
